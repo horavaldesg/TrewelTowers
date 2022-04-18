@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Hand
+  - ground
+  - Enemy
+  - Tower
+  - TowerArcher
+  - Target
+  - Spawner
+  - TargetCounter
+  - WantedBoard
+  - LevelCompletion
+  - TowerPos
+  - Arrow
+  - GroundBomb
+  - PlayerPos
+  - Bow
+  - LocomotionSystem
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Character
+  - Arrow
+  - Quiver
+  - Direct Interactable
+  - Invisible
+  - Carriers
+  - MinMap
+  - EnemyMiniMap
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Humphry
+    uniqueID: 1948064561
+    locked: 0
+  - name: Princess
+    uniqueID: 2681115447
+    locked: 0
